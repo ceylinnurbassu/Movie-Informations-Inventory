@@ -1,0 +1,8 @@
+1997, Titanic, Romantik, James Cameron, {(Leonardo DiCaprio, Erkek, ABD)(Kate Winslet, Kadın, Ingiltere)}
+2001, Harry Potter ve Felsefe Tasi, Fantastik, Chris Columbus, {(Emma Watson, Kadın, Fransa)(Daniel Radcliffe, Erkek, Ingiltere)}
+2010, Inception, Bilim Kurgu, Christopher Nolan, {(Leonardo DiCaprio, Erkek, ABD)(Ellen Page, Kadın, Kanada)}
+2015, The Martian, Bilim Kurgu, Ridley Scott, {(Matt Damon, Erkek, ABD)(Jessica Chastain, Kadın, ABD)(Jeff Daniels, Erkek, ABD)}
+2018, Black Panther, Süper kahraman, Ryan Coogler, {(Chadwick Boseman, Erkek, ABD)(Lupita Nyong'o, Kadın, Kenya)}
+2008, The Dark Knight, Aksiyon, Christopher Nolan, {(Christian Bale, Erkek, İngiltere)(Heath Ledger, Erkek, Avustralya)}
+2003, The Lord of the Rings: The Return of the King, Fantastik, Peter Jackson, {(Elijah Wood, Erkek, ABD)(Liv Tyler, Kadın, ABD)(Viggo Mortensen, Erkek, Danimarka)}
+2013, Gravity, Bilim Kurgu, Alfonso Cuarón, {(Sandra Bullock, Kadın, ABD)(George Clooney, Erkek, ABD)}
